@@ -1,0 +1,21 @@
+Study_Hours,Attendance,Assignments,marks
+1,60,1,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+2,62,1,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+3,65,2,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+4,68,2,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+5,70,3,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+6,72,3,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+7,75,4,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+8,78,4,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+9,80,5,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+10,82,5,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+11,84,6,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+12,86,6,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+13,88,7,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+14,90,7,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+15,92,8,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+16,94,8,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+17,95,9,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+18,96,9,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+19,97,10,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+20,98,10,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>

@@ -1,0 +1,5 @@
+Study_Hours,Attendance,Assignments,marks
+8,78,4,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+11,84,6,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+6,72,3,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
+7,75,4,<bound method KNeighborsRegressor.predict of KNeighborsRegressor(n_neighbors=4)>
