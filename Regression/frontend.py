@@ -4,12 +4,14 @@ import pandas as pd
 import joblib
 
 app_dir = pathlib.Path(__file__).resolve().parent
-model_path = app_dir / "fmodel.sav"
-scaler_paths = [
-	app_dir / "scaler.sav",
-	app_dir.parent / "scaler.sav",
-]
 
+# Model is stored in repository root
+model_path = app_dir.parent / "fmodel.sav"
+
+scaler_paths = [
+    app_dir.parent / "scaler.sav",
+    app_dir / "scaler.sav",
+]
 # Load model and optional scaler
 model = joblib.load(model_path)
 scaler = None
